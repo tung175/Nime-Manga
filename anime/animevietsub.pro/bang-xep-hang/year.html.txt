@@ -1,0 +1,940 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from animevietsub.pro/bang-xep-hang/year.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Feb 2023 04:19:46 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<title>Bảng xếp hạng năm 2023</title>
+<meta name="description" content="Bảng xếp hạng top anime hay nhất năm 2023 được cập nhật nhanh nhất tại animevietsub.pro" />
+<meta name="keywords" content="anime vietsub, anime năm 2023, anime hay, anime mới, bảng xếp hạng anime" />
+<meta property="og:site_name" content="Bảng xếp hạng năm 2023" />
+<meta property="og:title" content="Bảng xếp hạng năm 2023" />
+<meta name="og:description" content="Bảng xếp hạng top anime hay nhất năm 2023 được cập nhật nhanh nhất tại animevietsub.pro" />
+<meta property="og:url" content="year.html/index.html" />
+<link rel="canonical" href="year.html" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+<base  />
+<meta name="robots" content="index,follow" />
+<meta name="revisit-after" content="1 days" />
+<meta name="ROBOTS" content="index,follow,noodp" />
+<meta name="googlebot" content="index,follow" />
+<meta name="BingBOT" content="index,follow" />
+<meta name="yahooBOT" content="index,follow" />
+<meta name="slurp" content="index,follow" />
+<meta name="msnbot" content="index,follow" />
+<meta name="language" content="Vietnamese, English" />
+<meta property="og:site_name" content="animevietsub.pro" />
+<meta property="fb:app_id" content="1214104412028762" />
+<meta property="fb:pages" content="114595880190017" />
+<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
+
+
+<link rel="stylesheet" type="text/css" href="../statics/default/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="../statics/default/css/fontsf9e3.css?v=1.1" />
+<link rel="stylesheet" type="text/css" href="../statics/default/css/stylecd2c.css?v=1.6.2" />
+<script type="text/javascript">
+		var	MAIN_URL	=	'../index.html';
+		var	AjaxURL	=	'../ajax/all.html';
+	</script>
+<script type="text/javascript">
+        function w3tc_load_js(u) {
+            var d = document,
+                p = d.getElementsByTagName('HEAD')[0],
+                c = d.createElement('script');
+            c.type = 'text/javascript';
+            c.src = u;
+            p.appendChild(c);
+        }
+    </script>
+<script type="text/javascript">
+        w3tc_load_js('../statics/default/js/04538.default.include-footer.2dcd188eb9.js?v=1.0.022023');
+    </script>
+<script src="../../ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript" src="../statics/default/js/bootstrap.minc619.js?v=1.0"></script>
+<script type="text/javascript" src="../statics/default/js/jquery.ratyc619.js?v=1.0"></script>
+<script type="text/javascript" src="../statics/default/js/jquery.md5.js"></script>
+<script type="text/javascript" src="../statics/default/js/fx/utilb5fd.js?_1.2"></script>
+<script type="text/javascript" src="../statics/default/js/home-v1a474.js?v=1.5.1"></script>
+<script type="text/javascript" src="../statics/default/js/jquery.cookief9e3.js?v=1.1"></script>
+<script type="text/javascript" src="../statics/default/js/schedule.js"></script>
+<script type="text/javascript"> $(document).ready(function(){ !function () { /*referans:box*/ navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/webOS/i) || navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i) || navigator.userAgent.match(/BlackBerry/i) || navigator.userAgent.match(/Windows Phone/i) || (devtoolsDetector.addListener(function (t, e) { t && (document.location.href = "../index.html") }), devtoolsDetector.lanuch()) }(); }); </script>
+<script src="../statics/default/js/detect.devc619.js?v=1.0" type="text/javascript"></script><script type="application/ld+json">
+	{
+	"@context": "https://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement": [{"@type":"ListItem","position":1,"name":"Trang ch\u1ee7","item":"http:\/\/animevietsub.pro"},{"@type":"ListItem","position":2,"name":"B\u1ea3ng x\u1ebfp h\u1ea1ng","item":"http:\/\/animevietsub.pro\/bang-xep-hang.html"},{"@type":"ListItem","position":3,"name":"L\u1ecbch Chi\u1ebfu Anime","item":"http:\/\/animevietsub.pro\/bang-xep-hang\/year.html"}]	}
+	</script>
+
+</head>
+<body class="home blog wp-custom-logo NoBrdRa">
+<div class="Tp-Wp" id="Tp-Wp">
+<script data-cfasync="false" type="text/javascript" src="../../iogjhbnoypg.com/t/9/fret/meow4/1959419/eac8acc7.html"></script><header class="Header MnBrCn BgA">
+<div class="MnBr EcBgA">
+<div class="Container">
+<figure class="Logo">
+<a href="../index.html" title="Xem anime Vietsub" rel="home"><script type="text/javascript" style="display:none">
+//<![CDATA[
+window.__mirage2 = {petok:"Hpfd2H8d6eHBqo_fDn0.IqdtvqPansl9CgOOOiQKj00-1800-0"};
+//]]>
+</script>
+<script type="text/javascript" src="../../ajax.cloudflare.com/cdn-cgi/scripts/04b3eb47/cloudflare-static/mirage2.min.js"></script>
+<img data-cfsrc="http://cdn.animevietsub.pro/data/logo/logoz.png" alt="Logo" style="display:none;visibility:hidden;"><noscript><img src="../../cdn.animevietsub.pro/data/logo/logoz.png" alt="Logo"></noscript></a>
+</figure>
+<span class="Button MenuBtn AAShwHdd-lnk CXHd" data-shwhdd="Tp-Wp"><i></i><i></i><i></i></span>
+<span class="MenuBtnClose AAShwHdd-lnk CXHd" data-shwhdd="Tp-Wp"></span>
+<div class="Search" id="SearchMobile" style="display:none">
+<form method="post" id="form-search1" action="https://animevietsub.pro/tim-kiem/"> <label class="Form-Icon"> <input type="text" name="keyword" placeholder="Tìm: tên tiếng nhật, anh, việt" onkeyup="onSearch(this.value,'SearchMobile')" id="searchkeyword" autocomplete="off"> <button id="searchsubmit" type="submit"><i class="fa-search"></i></button> </label></form>
+<div class="search-suggest" style="display: none;">
+<ul style="margin-bottom: 0;" id="search-suggest-list"></ul>
+</div>
+</div>
+<div class="Rght BgA">
+<div class="Search" id="SearchDesktop">
+<form method="post" id="form-search" action="https://animevietsub.pro/tim-kiem/"> <label class="Form-Icon"> <input type="text" name="keyword" placeholder="Tìm: tên tiếng nhật, anh, việt" onkeyup="onSearch(this.value,'SearchDesktop')" id="searchkeyword" autocomplete="off"> <button id="searchsubmit" type="submit"><i class="fa-search"></i></button> </label></form>
+<div class="search-suggest" style="display: none;">
+<ul style="margin-bottom: 0;" id="search-suggest-list"></ul>
+</div>
+</div>
+<div class="Login">
+<a href="../account/login/indexfe74.html?_fxRef=http://animevietsub.pro/bang-xep-hang/year.html" class="Button StylA">Đăng nhập</a>
+</div>
+<nav class="Menu">
+<ul>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-490"><a href="../index.html">Trang chủ</a></li>
+<li id="menu-item-495" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-495"><a href="#">Dạng Anime</a>
+<ul class="sub-menu">
+<li><a href="../anime-bo/index.html">TV/Series</a></li>
+<li><a href="../anime-le/index.html">Movie/OVA</a></li>
+<li><a href="../hoat-hinh-trung-quoc/index.html">HH Trung Quốc</a></li>
+<li><a href="../anime-sap-chieu/index.html">Anime Sắp Chiếu</a></li>
+<li><a href="../danh-sach/list-dang-chieu/index.html">Anime Đang Chiếu</a></li>
+<li><a href="../danh-sach/list-tron-bo/index.html">Anime Trọn Bộ</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-493"><a href="../bang-xep-hang.html">Top Anime</a>
+<ul class="sub-menu">
+<li><a href="day.html">Theo Ngày</a></li>
+<li><a href="voted.html">Yêu Thích</a></li>
+<li><a href="month.html">Theo Tháng</a></li>
+<li><a href="season.html">Theo Mùa</a></li>
+<li><a href="year.html">Theo Năm</a></li>
+</ul>
+</li>
+<li id="menu-item-494" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-494"><a href="#">THỂ LOẠI</a>
+<ul class="sub-menu"><li><a href="../the-loai/hanh-dong/index.html">Action</a></li><li><a href="../the-loai/phieu-luu/index.html">Adventure</a></li><li><a href="../the-loai/cartoon/index.html">Cartoon</a></li><li><a href="../the-loai/hai-huoc/index.html">Comedy</a></li><li><a href="../the-loai/dien-loan/index.html">Dementia</a></li><li><a href="../the-loai/demons/index.html">Demons</a></li><li><a href="../the-loai/drama/index.html">Drama</a></li><li><a href="../the-loai/ecchi/index.html">Ecchi</a></li><li><a href="../the-loai/phep-thuat/index.html">Fantasy</a></li><li><a href="../the-loai/tro-choi/index.html">Game</a></li><li><a href="../the-loai/harem/index.html">Harem</a></li><li><a href="../the-loai/lich-su/index.html">Historical</a></li><li><a href="../the-loai/kinh-di/index.html">Horror</a></li><li><a href="../the-loai/josei/index.html">Josei</a></li><li><a href="../the-loai/tre-em/index.html">Kids</a></li><li><a href="../the-loai/live-action/index.html">Live Action</a></li><li><a href="../the-loai/ma-thuat/index.html">Magic</a></li><li><a href="../the-loai/martial-arts/index.html">Martial Arts</a></li><li><a href="../the-loai/mecha/index.html">Mecha</a></li><li><a href="../the-loai/quan-doi/index.html">Military</a></li><li><a href="../the-loai/am-nhac/index.html">Music</a></li><li><a href="../the-loai/mystery/index.html">Mystery</a></li><li><a href="../the-loai/parody/index.html">Parody</a></li><li><a href="../the-loai/police/index.html">Police</a></li><li><a href="../the-loai/psychological/index.html">Psychological</a></li><li><a href="../the-loai/tinh-cam/index.html">Romance</a></li><li><a href="../the-loai/samurai/index.html">Samurai</a></li><li><a href="../the-loai/truong-hoc/index.html">School</a></li><li><a href="../the-loai/sci-fi/index.html">Sci-Fi</a></li><li><a href="../the-loai/seinen/index.html">Seinen</a></li><li><a href="../the-loai/shoujo/index.html">Shoujo</a></li><li><a href="../the-loai/shoujo-ai/index.html">Shoujo Ai</a></li><li><a href="../the-loai/shounen/index.html">Shounen</a></li><li><a href="../the-loai/shounen-ai/index.html">Shounen Ai</a></li><li><a href="../the-loai/doi-thuong/index.html">Slice of Life</a></li><li><a href="../the-loai/space/index.html">Space</a></li><li><a href="../the-loai/the-thao/index.html">Sports</a></li><li><a href="../the-loai/super-power/index.html">Super Power</a></li><li><a href="../the-loai/sieu-nhien/index.html">Supernatural</a></li><li><a href="../the-loai/thriller/index.html">Thriller</a></li><li><a href="../the-loai/tokusatsu/index.html">Tokusatsu</a></li><li><a href="../the-loai/vampire/index.html">Vampire</a></li><li><a href="../the-loai/yaoi/index.html">Yaoi</a></li><li><a href="../the-loai/yuri/index.html">Yuri</a></li></ul>
+</li>
+ <li id="menu-item-497" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-497"><a href="#">Season</a>
+<ul class="sub-menu">
+<li><a href="../season/winter/2023/index.html">Mùa Đông 2023</a></li>
+<li><a href="../season/spring/2023/index.html">Mùa Xuân 2023</a></li>
+<li><a href="../season/summer/2023/index.html">Mùa Hạ 2023</a></li>
+<li><a href="../season/autumn/2023/index.html">Mùa Thu 2023</a></li>
+<li><a href="../season/winter/2022/index.html">Mùa Đông 2022</a></li>
+<li><a href="../season/spring/2022/index.html">Mùa Xuân 2022</a></li>
+<li><a href="../season/summer/2022/index.html">Mùa Hạ 2022</a></li>
+<li><a href="../season/autumn/2022/index.html">Mùa Thu 2022</a></li>
+<li><a href="../season/winter/2021/index.html">Mùa Đông 2021</a></li>
+<li><a href="../season/spring/2021/index.html">Mùa Xuân 2021</a></li>
+<li><a href="../season/summer/2021/index.html">Mùa Hạ 2021</a></li>
+<li><a href="../season/autumn/2021/index.html">Mùa Thu 2021</a></li>
+<li><a href="../season/winter/2020/index.html">Mùa Đông 2020</a></li>
+<li><a href="../season/spring/2020/index.html">Mùa Xuân 2020</a></li>
+<li><a href="../season/summer/2020/index.html">Mùa Hạ 2020</a></li>
+<li><a href="../season/autumn/2020/index.html">Mùa Thu 2020</a></li>
+<li><a href="../season/winter/2019/index.html">Mùa Đông 2019</a></li>
+<li><a href="../season/spring/2019/index.html">Mùa Xuân 2019</a></li>
+<li><a href="../season/summer/2019/index.html">Mùa Hạ 2019</a></li>
+<li><a href="../season/autumn/2019/index.html">Mùa Thu 2019</a></li>
+<li><a href="../season/winter/2018/index.html">Mùa Đông 2018</a></li>
+<li><a href="../season/spring/2018/index.html">Mùa Xuân 2018</a></li>
+<li><a href="../season/summer/2018/index.html">Mùa Hạ 2018</a></li>
+<li><a href="../season/autumn/2018/index.html">Mùa Thu 2018</a></li>
+<li><a href="../season/winter/2017/index.html">Mùa Đông 2017</a></li>
+<li><a href="../season/spring/2017/index.html">Mùa Xuân 2017</a></li>
+<li><a href="../season/summer/2017/index.html">Mùa Hạ 2017</a></li>
+<li><a href="../season/autumn/2017/index.html">Mùa Thu 2017</a></li>
+<li><a href="../season/winter/2016/index.html">Mùa Đông 2016</a></li>
+<li><a href="../season/spring/2016/index.html">Mùa Xuân 2016</a></li>
+<li><a href="../season/summer/2016/index.html">Mùa Hạ 2016</a></li>
+<li><a href="../season/autumn/2016/index.html">Mùa Thu 2016</a></li>
+<li><a href="../season/winter/2015/index.html">Mùa Đông 2015</a></li>
+<li><a href="../season/spring/2015/index.html">Mùa Xuân 2015</a></li>
+<li><a href="../season/summer/2015/index.html">Mùa Hạ 2015</a></li>
+<li><a href="../season/autumn/2015/index.html">Mùa Thu 2015</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-493"><a href="../anime/library/0-9/index.html">Thư viện</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-493"><a href="../lich-chieu-phim.html">Lịch chiếu</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</header> <div class="Body Container">
+<div class="Content">
+<div class="announcement"><span class="ann_title"><i class="fa-bullhorn"></i></span><span class="ann_text"><ul>
+<li>
+<p><span style="color:#f3dd3d"><span style="font-size:22px">Hiện tại đang bị đứt c&aacute;p quang n&ecirc;n xảy ra t&igrave;nh trạng lag,&nbsp;c&aacute;c bạn d&ugrave;ng 1.1.1.1 hoặc 4G để xem đỡ lag.</span></span></p>
+</li>
+<li>
+<p><span style="color:#f3dd3d"><span style="font-size:22px">Mời bạn tham gia Group&nbsp;&nbsp;</span></span><span style="font-size:22px"><a href="https://www.facebook.com/groups/fananimevietsub"><span style="color:#e62117">tại đ&acirc;y!</span></a>&nbsp;&nbsp;</span><span style="color:#f3dd3d"><span style="font-size:22px">hoặc tham gia Discord </span></span><span style="font-size:22px"><a href="https://bitly.com/discordAVS"><span style="color:#e62117">tại đ&acirc;y!</span></a>&nbsp;<span style="color:#f3dd3d">để ủng hộ </span><span style="color:#e62117">AnimeVietsub</span></span></p>
+</li>
+<li>
+<p><span style="color:#f3dd3d"><span style="font-size:22px">Do thiếu h&uacute;t kinh ph&iacute; n&ecirc;n quảng c&aacute;o c&oacute; thể g&acirc;y kh&oacute; chịu, rất mong c&aacute;c bạn th&ocirc;ng cảm!</span></span></p>
+</li>
+</ul></span></div> <div class="Ads ad-center-980"></div>
+<ol class="breadcrumb">
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" title="Trang chủ" href="../index.html"><span itemprop="name">Trang chủ</span></a></li><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" title="Bảng xếp hạng AnimeVsub.tv" href="../bang-xep-hang.html"><span itemprop="name">Bảng xếp hạng</span></a></li><li class="active" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" title="Năm tại AnimeVsub" href="year.html"><span itemprop="name">Năm</span></a></li> </ol>
+<div class="TpRwCont">
+<main>
+<div class="movie-list-index home-v2">
+<div class="box_top_search" style="margin-bottom:10px;">
+<ul class="search_control_select">
+<li><a href="../bang-xep-hang.html" title="Bảng Xếp Hạng Anime">Bảng xếp hạng</a></li>
+<li><a href="day.html" class="" title="Bảng Xếp Hạng Anime ngày">Ngày</a></li>
+<li><a href="voted.html" class="" title="Bảng Xếp Hạng Anime Theo Đánh Giá">Đánh Giá</a></li>
+<li><a href="month.html" class="" title="Bảng Xếp Hạng Anime Tháng">Tháng</a></li>
+<li><a href="season.html" class="" title="Bảng Xếp Hạng Anime Mùa">Mùa</a></li>
+<li><a href="year.html" class="active" title="Bảng Xếp Hạng Anime Năm">Năm</a></li>
+</ul>
+</div>
+<h2 class="header-bxh-list-index">
+<span class="title-list-index">Bảng xếp hạng năm 2023</span>
+</h2>
+<ul class="bxh-movie-phimletv">
+<li class="po-01 group" style="background-image: url(../../cdn.animevietsub.pro/data/banner/2022/07/31/animevsub-NxQxhIAgug.png);">
+<div class="row-display group po-r"> <span class="txt-rank">01</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/one-piece-dao-hai-tac-a1/index.html" title="Phim One Piece - Đảo Hải Tặc - Vua Hải Tặc" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2019/09/27/animevsub-sQCBqYz9ve.jpg" alt="Phim One Piece - Đảo Hải Tặc - Vua Hải Tặc" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2019/09/27/animevsub-sQCBqYz9ve.jpg" alt="Phim One Piece - Đảo Hải Tặc - Vua Hải Tặc"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/one-piece-dao-hai-tac-a1/index.html" title="One Piece - Đảo Hải Tặc" class="txt-primary _trackLink">One Piece - Đảo Hải Tặc</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Vua Hải Tặc (1999)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Tập 1053 <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-02 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">02</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+ <a href="../phim/the-gioi-phep-thuat-a474/index.html" title="Phim Black Clover (TV) - Black Clover (2017), Black Clover, Thế Giới Phép Thuật, Cỏ Ba Lá Đen" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2020/10/17/animevsub-IoEzyCjdCJ.jpg" alt="Phim Black Clover (TV) - Black Clover (2017), Black Clover, Thế Giới Phép Thuật, Cỏ Ba Lá Đen" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2020/10/17/animevsub-IoEzyCjdCJ.jpg" alt="Phim Black Clover (TV) - Black Clover (2017), Black Clover, Thế Giới Phép Thuật, Cỏ Ba Lá Đen"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/the-gioi-phep-thuat-a474/index.html" title="Black Clover (TV)" class="txt-primary _trackLink">Black Clover (TV)</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Black Clover (2017), Black Clover, Thế Giới Phép Thuật, Cỏ Ba Lá Đen (2017)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-03 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">03</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/tham-tu-lung-danh-conan-r3-a3/index.html" title="Phim Thám Tử Lừng Danh Conan - Detective Conan, Case Closed, Meitantei Conan" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2019/08/26/animevsub-bGw5lnUHTC.jpg" alt="Phim Thám Tử Lừng Danh Conan - Detective Conan, Case Closed, Meitantei Conan" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2019/08/26/animevsub-bGw5lnUHTC.jpg" alt="Phim Thám Tử Lừng Danh Conan - Detective Conan, Case Closed, Meitantei Conan"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/tham-tu-lung-danh-conan-r3-a3/index.html" title="Thám Tử Lừng Danh Conan" class="txt-primary _trackLink">Thám Tử Lừng Danh Conan</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Detective Conan, Case Closed, Meitantei Conan (1996)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Tập 1070 <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-04 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">04</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/dau-la-dai-luc-r1-a2945/index.html" title="Phim Đấu La Đại Lục - Soul Land, Douluo Dalu" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2022/03/05/animevsub-6dKtirTuLS.jpg" alt="Phim Đấu La Đại Lục - Soul Land, Douluo Dalu" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2022/03/05/animevsub-6dKtirTuLS.jpg" alt="Phim Đấu La Đại Lục - Soul Land, Douluo Dalu"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/dau-la-dai-luc-r1-a2945/index.html" title="Đấu La Đại Lục" class="txt-primary _trackLink">Đấu La Đại Lục</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Soul Land, Douluo Dalu (2018)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Tập 248 <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-05 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">05</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/su-menh-than-chet-a4/index.html" title="Phim Bleach - Sứ Mệnh Thần Chết" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2017/08/03/animevsub-poster-7004.jpg" alt="Phim Bleach - Sứ Mệnh Thần Chết" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2017/08/03/animevsub-poster-7004.jpg" alt="Phim Bleach - Sứ Mệnh Thần Chết"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/su-menh-than-chet-a4/index.html" title="Bleach" class="txt-primary _trackLink">Bleach</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Sứ Mệnh Thần Chết (2004)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-06 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">06</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/kage-no-jitsuryokusha-ni-naritakute-a4699/index.html" title="Phim Ta Muốn Trở Thành Chúa Tể Bóng Tối! - Kage no Jitsuryokusha ni Naritakute!, The Eminence in Shadow, Shadow Garden, Tao Muốn Làm Chúa Hề Bóng Tối" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2022/10/05/animevsub-PeZHKapawP.jpg" alt="Phim Ta Muốn Trở Thành Chúa Tể Bóng Tối! - Kage no Jitsuryokusha ni Naritakute!, The Eminence in Shadow, Shadow Garden, Tao Muốn Làm Chúa Hề Bóng Tối" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2022/10/05/animevsub-PeZHKapawP.jpg" alt="Phim Ta Muốn Trở Thành Chúa Tể Bóng Tối! - Kage no Jitsuryokusha ni Naritakute!, The Eminence in Shadow, Shadow Garden, Tao Muốn Làm Chúa Hề Bóng Tối"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/kage-no-jitsuryokusha-ni-naritakute-a4699/index.html" title="Ta Muốn Trở Thành Chúa Tể Bóng Tối!" class="txt-primary _trackLink">Ta Muốn Trở Thành Chúa Tể Bóng Tối!</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Kage no Jitsuryokusha ni Naritakute!, The Eminence in Shadow, Shadow Garden, Tao Muốn Làm Chúa Hề Bóng Tối (2022)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-07 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">07</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/boruto-naruto-the-he-ke-tiep-r2-a517/index.html" title="Phim Boruto: Naruto Những Thế Hệ Kế Tiếp - Boruto: Naruto Next Generations, BORUTO -NARUTO NEXT GENERATIONS ( Naruto Season 3)" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2020/10/31/animevsub-sv6GCRbkcE.jpg" alt="Phim Boruto: Naruto Những Thế Hệ Kế Tiếp - Boruto: Naruto Next Generations, BORUTO -NARUTO NEXT GENERATIONS ( Naruto Season 3)" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2020/10/31/animevsub-sv6GCRbkcE.jpg" alt="Phim Boruto: Naruto Những Thế Hệ Kế Tiếp - Boruto: Naruto Next Generations, BORUTO -NARUTO NEXT GENERATIONS ( Naruto Season 3)"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/boruto-naruto-the-he-ke-tiep-r2-a517/index.html" title="Boruto: Naruto Những Thế Hệ Kế Tiếp" class="txt-primary _trackLink">Boruto: Naruto Những Thế Hệ Kế Tiếp</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Boruto: Naruto Next Generations, BORUTO -NARUTO NEXT GENERATIONS ( Naruto Season 3) (2017)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Tập 289 <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-08 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">08</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/naruto-suc-manh-vi-thu-r2-a5/index.html" title="Phim Naruto: Sức Mạnh Vĩ Thú - Naruto Shippuden, Naruto Hurricane Chronicles, Naruto: Shippuuden" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2017/08/03/animevsub-poster-5819.jpg" alt="Phim Naruto: Sức Mạnh Vĩ Thú - Naruto Shippuden, Naruto Hurricane Chronicles, Naruto: Shippuuden" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2017/08/03/animevsub-poster-5819.jpg" alt="Phim Naruto: Sức Mạnh Vĩ Thú - Naruto Shippuden, Naruto Hurricane Chronicles, Naruto: Shippuuden"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/naruto-suc-manh-vi-thu-r2-a5/index.html" title="Naruto: Sức Mạnh Vĩ Thú" class="txt-primary _trackLink">Naruto: Sức Mạnh Vĩ Thú</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Naruto Shippuden, Naruto Hurricane Chronicles, Naruto: Shippuuden (2007)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-09 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">09</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/jujutsu-kaisen-chu-thuat-hoi-chien-a3841/index.html" title="Phim Jujutsu Kaisen - Chú Thuật Hồi Chiến - Chú Thuật Hồi Chiến, Sorcery Fight, Jujutsu Kaisen (TV)" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2020/09/21/animevsub-XI9GXfbHY4.jpg" alt="Phim Jujutsu Kaisen - Chú Thuật Hồi Chiến - Chú Thuật Hồi Chiến, Sorcery Fight, Jujutsu Kaisen (TV)" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2020/09/21/animevsub-XI9GXfbHY4.jpg" alt="Phim Jujutsu Kaisen - Chú Thuật Hồi Chiến - Chú Thuật Hồi Chiến, Sorcery Fight, Jujutsu Kaisen (TV)"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/jujutsu-kaisen-chu-thuat-hoi-chien-a3841/index.html" title="Jujutsu Kaisen - Chú Thuật Hồi Chiến" class="txt-primary _trackLink">Jujutsu Kaisen - Chú Thuật Hồi Chiến</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Chú Thuật Hồi Chiến, Sorcery Fight, Jujutsu Kaisen (TV) (2020)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-10 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">10</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/pokemon-2019-a3700/index.html" title="Phim Pocket Monsters - Pokemon Journeys: The Series, Pokemon (2019), Pokemon 2019, Pokémon" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2020/04/24/animevsub-ArC0C88Lk5.jpg" alt="Phim Pocket Monsters - Pokemon Journeys: The Series, Pokemon (2019), Pokemon 2019, Pokémon" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2020/04/24/animevsub-ArC0C88Lk5.jpg" alt="Phim Pocket Monsters - Pokemon Journeys: The Series, Pokemon (2019), Pokemon 2019, Pokémon"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/pokemon-2019-a3700/index.html" title="Pocket Monsters" class="txt-primary _trackLink">Pocket Monsters</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Pokemon Journeys: The Series, Pokemon (2019), Pokemon 2019, Pokémon (2019)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-11 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">11</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/chainsaw-man-a4286/index.html" title="Phim Chainsaw Man - Thợ Săn Quỷ" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2022/08/05/animevsub-ckqCvPiWRI.jpg" alt="Phim Chainsaw Man - Thợ Săn Quỷ" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2022/08/05/animevsub-ckqCvPiWRI.jpg" alt="Phim Chainsaw Man - Thợ Săn Quỷ"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/chainsaw-man-a4286/index.html" title="Chainsaw Man" class="txt-primary _trackLink">Chainsaw Man</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Thợ Săn Quỷ (2022)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-12 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">12</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/thanh-guom-diet-quy-kimetsu-no-yaiba-a3445/index.html" title="Phim Thanh Gươm Diệt Quỷ - Kimetsu no Yaiba - Blade of Demon Destruction, Demon Slayer: Kimetsu no Yaiba" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2019/09/15/animevsub-M1uL0LQdRk.jpg" alt="Phim Thanh Gươm Diệt Quỷ - Kimetsu no Yaiba - Blade of Demon Destruction, Demon Slayer: Kimetsu no Yaiba" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2019/09/15/animevsub-M1uL0LQdRk.jpg" alt="Phim Thanh Gươm Diệt Quỷ - Kimetsu no Yaiba - Blade of Demon Destruction, Demon Slayer: Kimetsu no Yaiba"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/thanh-guom-diet-quy-kimetsu-no-yaiba-a3445/index.html" title="Thanh Gươm Diệt Quỷ - Kimetsu no Yaiba" class="txt-primary _trackLink">Thanh Gươm Diệt Quỷ - Kimetsu no Yaiba</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Blade of Demon Destruction, Demon Slayer: Kimetsu no Yaiba (2019)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-13 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">13</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/tho-san-ti-hon-a1588/index.html" title="Phim Thợ Săn Tí Hon - Hunter x Hunter, HxH" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2017/09/13/animevsub-RgBeqRjwix.jpg" alt="Phim Thợ Săn Tí Hon - Hunter x Hunter, HxH" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2017/09/13/animevsub-RgBeqRjwix.jpg" alt="Phim Thợ Săn Tí Hon - Hunter x Hunter, HxH"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/tho-san-ti-hon-a1588/index.html" title="Thợ Săn Tí Hon" class="txt-primary _trackLink">Thợ Săn Tí Hon</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Hunter x Hunter, HxH (2011)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-14 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">14</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/thanh-guom-diet-quy-pho-den-do-a4005/index.html" title="Phim Thanh Gươm Diệt Quỷ: Phố Đèn Đỏ - Kimetsu no Yaiba: Yuukaku-hen, Thanh Gươm Diệt Quỷ: Kỹ Viện Trấn, Demon Slayer: Kimetsu no Yaiba Entertainment District Arc, Kimetsu no Yaiba SS2" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2021/07/13/animevsub-Uac6x8gJRD.jpg" alt="Phim Thanh Gươm Diệt Quỷ: Phố Đèn Đỏ - Kimetsu no Yaiba: Yuukaku-hen, Thanh Gươm Diệt Quỷ: Kỹ Viện Trấn, Demon Slayer: Kimetsu no Yaiba Entertainment District Arc, Kimetsu no Yaiba SS2" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2021/07/13/animevsub-Uac6x8gJRD.jpg" alt="Phim Thanh Gươm Diệt Quỷ: Phố Đèn Đỏ - Kimetsu no Yaiba: Yuukaku-hen, Thanh Gươm Diệt Quỷ: Kỹ Viện Trấn, Demon Slayer: Kimetsu no Yaiba Entertainment District Arc, Kimetsu no Yaiba SS2"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/thanh-guom-diet-quy-pho-den-do-a4005/index.html" title="Thanh Gươm Diệt Quỷ: Phố Đèn Đỏ" class="txt-primary _trackLink">Thanh Gươm Diệt Quỷ: Phố Đèn Đỏ</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Kimetsu no Yaiba: Yuukaku-hen, Thanh Gươm Diệt Quỷ: Kỹ Viện Trấn, Demon Slayer: Kimetsu no Yaiba Entertainment District Arc, Kimetsu no Yaiba SS2 (2021)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-15 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">15</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/the-gioi-hoan-my-a4098/index.html" title="Phim Thế Giới Hoàn Mỹ - Perfect World, Wanmei Shijie" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2022/04/01/animevsub-JcN7KtFxCe.jpg" alt="Phim Thế Giới Hoàn Mỹ - Perfect World, Wanmei Shijie" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2022/04/01/animevsub-JcN7KtFxCe.jpg" alt="Phim Thế Giới Hoàn Mỹ - Perfect World, Wanmei Shijie"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/the-gioi-hoan-my-a4098/index.html" title="Thế Giới Hoàn Mỹ" class="txt-primary _trackLink">Thế Giới Hoàn Mỹ</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Perfect World, Wanmei Shijie (2021)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Tập 99 <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-16 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">16</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/bay-vien-ngoc-rong-sieu-cap-s1-a980/index.html" title="Phim Bảy Viên Ngọc Rồng Siêu Cấp - Dragon Ball Super, Dragon Ball Chou, 7 Viên Ngọc Rồng Siêu Cấp" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2019/08/26/animevsub-t3avgXgZLq.jpg" alt="Phim Bảy Viên Ngọc Rồng Siêu Cấp - Dragon Ball Super, Dragon Ball Chou, 7 Viên Ngọc Rồng Siêu Cấp" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2019/08/26/animevsub-t3avgXgZLq.jpg" alt="Phim Bảy Viên Ngọc Rồng Siêu Cấp - Dragon Ball Super, Dragon Ball Chou, 7 Viên Ngọc Rồng Siêu Cấp"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/bay-vien-ngoc-rong-sieu-cap-s1-a980/index.html" title="Bảy Viên Ngọc Rồng Siêu Cấp" class="txt-primary _trackLink">Bảy Viên Ngọc Rồng Siêu Cấp</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Dragon Ball Super, Dragon Ball Chou, 7 Viên Ngọc Rồng Siêu Cấp (2015)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Tập Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-17 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">17</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/doraemon-new-series-a908/index.html" title="Phim Doraemon New  TV Series - Doremon, Chú Mèo máy thần kỳ, Mèo Máy Doraemon, Đôrêmon" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2017/11/29/animevsub-ZXOrgw4fvS.jpg" alt="Phim Doraemon New  TV Series - Doremon, Chú Mèo máy thần kỳ, Mèo Máy Doraemon, Đôrêmon" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2017/11/29/animevsub-ZXOrgw4fvS.jpg" alt="Phim Doraemon New  TV Series - Doremon, Chú Mèo máy thần kỳ, Mèo Máy Doraemon, Đôrêmon"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/doraemon-new-series-a908/index.html" title="Doraemon New  TV Series" class="txt-primary _trackLink">Doraemon New TV Series</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Doremon, Chú Mèo máy thần kỳ, Mèo Máy Doraemon, Đôrêmon (2005)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Tập 747 <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-18 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">18</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/ki-nguyen-trigger-phan-3-a4238/index.html" title="Phim Kỉ Nguyên Trigger Phần 3 - World Trigger 3rd Season" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2021/08/25/animevsub-NnePFaKWNk.jpg" alt="Phim Kỉ Nguyên Trigger Phần 3 - World Trigger 3rd Season" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2021/08/25/animevsub-NnePFaKWNk.jpg" alt="Phim Kỉ Nguyên Trigger Phần 3 - World Trigger 3rd Season"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/ki-nguyen-trigger-phan-3-a4238/index.html" title="Kỉ Nguyên Trigger Phần 3" class="txt-primary _trackLink">Kỉ Nguyên Trigger Phần 3</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">World Trigger 3rd Season (2021)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-19 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">19</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/overlord-iv-a4263/index.html" title="Phim Overlord IV - Overlord 4, Overlord SS4" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2022/06/16/animevsub-N3lu0GaZTE.jpg" alt="Phim Overlord IV - Overlord 4, Overlord SS4" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2022/06/16/animevsub-N3lu0GaZTE.jpg" alt="Phim Overlord IV - Overlord 4, Overlord SS4"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/overlord-iv-a4263/index.html" title="Overlord IV" class="txt-primary _trackLink">Overlord IV</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Overlord 4, Overlord SS4 (2022)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-20 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">20</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/hoi-phap-su-phan-cuoi-ss3-i1-a3236/index.html" title="Phim Hội Pháp Sư (Phần Cuối) - Fairy Tail Final Series, Fairy Tail Season 3, Fairy Tail (2018), Fairy Tail: Final Series" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2019/08/26/animevsub-0gXAOG4Jmz.jpg" alt="Phim Hội Pháp Sư (Phần Cuối) - Fairy Tail Final Series, Fairy Tail Season 3, Fairy Tail (2018), Fairy Tail: Final Series" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2019/08/26/animevsub-0gXAOG4Jmz.jpg" alt="Phim Hội Pháp Sư (Phần Cuối) - Fairy Tail Final Series, Fairy Tail Season 3, Fairy Tail (2018), Fairy Tail: Final Series"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/hoi-phap-su-phan-cuoi-ss3-i1-a3236/index.html" title="Hội Pháp Sư (Phần Cuối)" class="txt-primary _trackLink">Hội Pháp Sư (Phần Cuối)</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Fairy Tail Final Series, Fairy Tail Season 3, Fairy Tail (2018), Fairy Tail: Final Series (2018)</h4>
+ </div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-21 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">21</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/vo-than-chua-te-a3825/index.html" title="Phim Võ Thần Chúa Tể - Martial Master, Wu Shen Zhu Zai, Wushen Zhuzai, The God of War Dominates" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2020/09/05/animevsub-awUeDXNDrH.jpg" alt="Phim Võ Thần Chúa Tể - Martial Master, Wu Shen Zhu Zai, Wushen Zhuzai, The God of War Dominates" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2020/09/05/animevsub-awUeDXNDrH.jpg" alt="Phim Võ Thần Chúa Tể - Martial Master, Wu Shen Zhu Zai, Wushen Zhuzai, The God of War Dominates"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/vo-than-chua-te-a3825/index.html" title="Võ Thần Chúa Tể" class="txt-primary _trackLink">Võ Thần Chúa Tể</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Martial Master, Wu Shen Zhu Zai, Wushen Zhuzai, The God of War Dominates (2020)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Tập 310 <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-22 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">22</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/linh-kiem-ton-a3396/index.html" title="Phim Linh Kiếm Tôn - Ling Jian Zun, Spirit Sword Sovereign" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2019/01/15/animevsub-oDJnM8xrdd.jpg" alt="Phim Linh Kiếm Tôn - Ling Jian Zun, Spirit Sword Sovereign" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2019/01/15/animevsub-oDJnM8xrdd.jpg" alt="Phim Linh Kiếm Tôn - Ling Jian Zun, Spirit Sword Sovereign"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/linh-kiem-ton-a3396/index.html" title="Linh Kiếm Tôn" class="txt-primary _trackLink">Linh Kiếm Tôn</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Ling Jian Zun, Spirit Sword Sovereign (2019)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Tập 360 <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-23 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">23</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/ki-nguyen-trigger-a2736/index.html" title="Phim Kỉ nguyên Trigger - World Trigger" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2017/09/25/animevsub-gdxsTQx48k.jpg" alt="Phim Kỉ nguyên Trigger - World Trigger" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2017/09/25/animevsub-gdxsTQx48k.jpg" alt="Phim Kỉ nguyên Trigger - World Trigger"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/ki-nguyen-trigger-a2736/index.html" title="Kỉ nguyên Trigger" class="txt-primary _trackLink">Kỉ nguyên Trigger</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">World Trigger (2014)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-24 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">24</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/kinsou-no-vermeil-gakeppuchi-majutsushi-wa-saikyou-no-yakusai-to-mahou-sekai-wo-tsukisusumu-r2-a4603/index.html" title="Phim Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu - Vermeil in Gold" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2022/07/20/animevsub-7lXaym9oxN.jpg" alt="Phim Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu - Vermeil in Gold" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2022/07/20/animevsub-7lXaym9oxN.jpg" alt="Phim Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu - Vermeil in Gold"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/kinsou-no-vermeil-gakeppuchi-majutsushi-wa-saikyou-no-yakusai-to-mahou-sekai-wo-tsukisusumu-r2-a4603/index.html" title="Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu" class="txt-primary _trackLink">Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Vermeil in Gold (2022)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-25 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">25</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/one-piece-episode-of-sorajima-i1-a3209/index.html" title="Phim One Piece: Episode of Sorajima - Đảo Hải Tặc: Đảo Trên Trời, One Piece: Episode of Skypiea" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2018/09/03/animevsub-DpjvHefjvl.jpg" alt="Phim One Piece: Episode of Sorajima - Đảo Hải Tặc: Đảo Trên Trời, One Piece: Episode of Skypiea" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2018/09/03/animevsub-DpjvHefjvl.jpg" alt="Phim One Piece: Episode of Sorajima - Đảo Hải Tặc: Đảo Trên Trời, One Piece: Episode of Skypiea"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/one-piece-episode-of-sorajima-i1-a3209/index.html" title="One Piece: Episode of Sorajima" class="txt-primary _trackLink">One Piece: Episode of Sorajima</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Đảo Hải Tặc: Đảo Trên Trời, One Piece: Episode of Skypiea (2018)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-26 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">26</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/one-piece-episode-of-sabo-3-kyoudai-no-kizuna-kiseki-no-saikai-to-uketsugareru-ishi-i3-a2078/index.html" title="Phim One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi - " class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2017/09/17/animevsub-eiF9RNLiJs.jpg" alt="Phim One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi - " style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2017/09/17/animevsub-eiF9RNLiJs.jpg" alt="Phim One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi - "></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/one-piece-episode-of-sabo-3-kyoudai-no-kizuna-kiseki-no-saikai-to-uketsugareru-ishi-i3-a2078/index.html" title="One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi" class="txt-primary _trackLink">One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info"> (2015)</h4>
+</div>
+</div>
+
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-27 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">27</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/tate-no-yuusha-no-nariagari-s1-a3315/index.html" title="Phim Tate no Yuusha no Nariagari - Sự Trỗi Dậy Của Khiên Anh Hùng, The Rising of the Shield Hero" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2019/03/29/animevsub-1zxhJhvANl.jpg" alt="Phim Tate no Yuusha no Nariagari - Sự Trỗi Dậy Của Khiên Anh Hùng, The Rising of the Shield Hero" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2019/03/29/animevsub-1zxhJhvANl.jpg" alt="Phim Tate no Yuusha no Nariagari - Sự Trỗi Dậy Của Khiên Anh Hùng, The Rising of the Shield Hero"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/tate-no-yuusha-no-nariagari-s1-a3315/index.html" title="Tate no Yuusha no Nariagari" class="txt-primary _trackLink">Tate no Yuusha no Nariagari</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Sự Trỗi Dậy Của Khiên Anh Hùng, The Rising of the Shield Hero (2019)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-28 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">28</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/spy-x-family-i4-a4402/index.html" title="Phim Spy x Family - Gia Đình Điệp Viên" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2022/10/01/animevsub-FrsLORuVXV.jpg" alt="Phim Spy x Family - Gia Đình Điệp Viên" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2022/10/01/animevsub-FrsLORuVXV.jpg" alt="Phim Spy x Family - Gia Đình Điệp Viên"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/spy-x-family-i4-a4402/index.html" title="Spy x Family" class="txt-primary _trackLink">Spy x Family</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Gia Đình Điệp Viên (2022)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-29 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">29</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/arifureta-shokugyou-de-sekai-saikyou-a3519/index.html" title="Phim Arifureta Shokugyou de Sekai Saikyou - Arifureta: From Commonplace to World&#39s Strongest, From Common Job Class to the Strongest in the World, Tầm Thường Hay Phi Thường" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2019/08/08/animevsub-l9ueJdvD1c.jpg" alt="Phim Arifureta Shokugyou de Sekai Saikyou - Arifureta: From Commonplace to World&#39s Strongest, From Common Job Class to the Strongest in the World, Tầm Thường Hay Phi Thường" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2019/08/08/animevsub-l9ueJdvD1c.jpg" alt="Phim Arifureta Shokugyou de Sekai Saikyou - Arifureta: From Commonplace to World&#39s Strongest, From Common Job Class to the Strongest in the World, Tầm Thường Hay Phi Thường"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/arifureta-shokugyou-de-sekai-saikyou-a3519/index.html" title="Arifureta Shokugyou de Sekai Saikyou" class="txt-primary _trackLink">Arifureta Shokugyou de Sekai Saikyou</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Arifureta: From Commonplace to World&#39s Strongest, From Common Job Class to the Strongest in the World, Tầm Thường Hay Phi Thường (2019)</h4>
+</div>
+</div>
+ 
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-30 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">30</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/one-piece-episode-of-east-blue-luffy-to-4-nin-no-nakama-no-daibouken-a3603/index.html" title="Phim One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken - ONE PIECE: PHẦN VỀ BIỂN ĐÔNG" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2019/08/24/animevsub-qVyBxkFVkq.jpg" alt="Phim One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken - ONE PIECE: PHẦN VỀ BIỂN ĐÔNG" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2019/08/24/animevsub-qVyBxkFVkq.jpg" alt="Phim One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken - ONE PIECE: PHẦN VỀ BIỂN ĐÔNG"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/one-piece-episode-of-east-blue-luffy-to-4-nin-no-nakama-no-daibouken-a3603/index.html" title="One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken" class="txt-primary _trackLink">One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">ONE PIECE: PHẦN VỀ BIỂN ĐÔNG (2017)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-31 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">31</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/co-be-bup-be-dang-yeu-a4385/index.html" title="Phim Cô Búp Bê Đang Yêu - Sono Bisque Doll wa Koi wo Suru, My Dress-Up Darling, Sono Kisekae Ningyou wa Koi wo Suru, Cô Nàng Nổi Loạn X Chàng Thợ May" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2022/01/09/animevsub-f1RSV2Abb4.jpg" alt="Phim Cô Búp Bê Đang Yêu - Sono Bisque Doll wa Koi wo Suru, My Dress-Up Darling, Sono Kisekae Ningyou wa Koi wo Suru, Cô Nàng Nổi Loạn X Chàng Thợ May" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2022/01/09/animevsub-f1RSV2Abb4.jpg" alt="Phim Cô Búp Bê Đang Yêu - Sono Bisque Doll wa Koi wo Suru, My Dress-Up Darling, Sono Kisekae Ningyou wa Koi wo Suru, Cô Nàng Nổi Loạn X Chàng Thợ May"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/co-be-bup-be-dang-yeu-a4385/index.html" title="Cô Búp Bê Đang Yêu" class="txt-primary _trackLink">Cô Búp Bê Đang Yêu</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Sono Bisque Doll wa Koi wo Suru, My Dress-Up Darling, Sono Kisekae Ningyou wa Koi wo Suru, Cô Nàng Nổi Loạn X Chàng Thợ May (2022)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-32 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">32</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/van-gioi-tien-tung-a3852/index.html" title="Phim Vạn Giới Tiên Tung - Wanjie Xianzong, Wonderland, The Wonderland of Ten Thousands, Wan Jie Xian Zong" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2020/09/25/animevsub-N2lvXv0bRf.jpg" alt="Phim Vạn Giới Tiên Tung - Wanjie Xianzong, Wonderland, The Wonderland of Ten Thousands, Wan Jie Xian Zong" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2020/09/25/animevsub-N2lvXv0bRf.jpg" alt="Phim Vạn Giới Tiên Tung - Wanjie Xianzong, Wonderland, The Wonderland of Ten Thousands, Wan Jie Xian Zong"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/van-gioi-tien-tung-a3852/index.html" title="Vạn Giới Tiên Tung" class="txt-primary _trackLink">Vạn Giới Tiên Tung</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Wanjie Xianzong, Wonderland, The Wonderland of Ten Thousands, Wan Jie Xian Zong (2018)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Tập 353 <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-33 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">33</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/one-piece-episode-of-merry-mou-hitori-no-nakama-no-monogatari-i3-a2076/index.html" title="Phim One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari - One Piece Special, One Piece: Episode of Merry - The Tale of One More Friend" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2017/09/17/animevsub-bRdwOYjSaN.jpg" alt="Phim One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari - One Piece Special, One Piece: Episode of Merry - The Tale of One More Friend" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2017/09/17/animevsub-bRdwOYjSaN.jpg" alt="Phim One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari - One Piece Special, One Piece: Episode of Merry - The Tale of One More Friend"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/one-piece-episode-of-merry-mou-hitori-no-nakama-no-monogatari-i3-a2076/index.html" title="One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari" class="txt-primary _trackLink">One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">One Piece Special, One Piece: Episode of Merry - The Tale of One More Friend (2013)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-34 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">34</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/van-gioi-than-chu-a3404/index.html" title="Phim Vạn Giới Thần Chủ - Wan Jie Shen Zhu. Lord of the Universe" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2022/04/17/animevsub-4PO4c9D22c.jpg" alt="Phim Vạn Giới Thần Chủ - Wan Jie Shen Zhu. Lord of the Universe" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2022/04/17/animevsub-4PO4c9D22c.jpg" alt="Phim Vạn Giới Thần Chủ - Wan Jie Shen Zhu. Lord of the Universe"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/van-gioi-than-chu-a3404/index.html" title="Vạn Giới Thần Chủ" class="txt-primary _trackLink">Vạn Giới Thần Chủ</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Wan Jie Shen Zhu. Lord of the Universe (2019)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Tập 314 <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-35 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">35</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/yeu-than-ky-a2981/index.html" title="Phim Yêu Thần Ký - Yao Shen Ji, Demon Gods, Tales of Demons and Gods" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2022/03/09/animevsub-YLJmLxozMf.jpg" alt="Phim Yêu Thần Ký - Yao Shen Ji, Demon Gods, Tales of Demons and Gods" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2022/03/09/animevsub-YLJmLxozMf.jpg" alt="Phim Yêu Thần Ký - Yao Shen Ji, Demon Gods, Tales of Demons and Gods"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/yeu-than-ky-a2981/index.html" title="Yêu Thần Ký" class="txt-primary _trackLink">Yêu Thần Ký</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Yao Shen Ji, Demon Gods, Tales of Demons and Gods (2017)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Tập 290 <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-36 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">36</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/seirei-gensouki-a4131/index.html" title="Phim Tinh Linh Huyễn Tưởng Ký - Seirei Gensouki, Seirei Gensouki: Spirit Chronicles, Spirit Chronicles" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2022/03/09/animevsub-MmY8WWc6RV.jpg" alt="Phim Tinh Linh Huyễn Tưởng Ký - Seirei Gensouki, Seirei Gensouki: Spirit Chronicles, Spirit Chronicles" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2022/03/09/animevsub-MmY8WWc6RV.jpg" alt="Phim Tinh Linh Huyễn Tưởng Ký - Seirei Gensouki, Seirei Gensouki: Spirit Chronicles, Spirit Chronicles"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/seirei-gensouki-a4131/index.html" title="Tinh Linh Huyễn Tưởng Ký" class="txt-primary _trackLink">Tinh Linh Huyễn Tưởng Ký</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Seirei Gensouki, Seirei Gensouki: Spirit Chronicles, Spirit Chronicles (2021)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-37 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">37</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/tho-san-am-thuc-a2605/index.html" title="Phim Thợ Săn Ẩm Thực - Toriko, Toriko (2011), Toriko (TV), Toriko x One Piece Collabo Special" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2017/09/23/animevsub-ENbMnnfqCY.jpg" alt="Phim Thợ Săn Ẩm Thực - Toriko, Toriko (2011), Toriko (TV), Toriko x One Piece Collabo Special" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2017/09/23/animevsub-ENbMnnfqCY.jpg" alt="Phim Thợ Săn Ẩm Thực - Toriko, Toriko (2011), Toriko (TV), Toriko x One Piece Collabo Special"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/tho-san-am-thuc-a2605/index.html" title="Thợ Săn Ẩm Thực" class="txt-primary _trackLink">Thợ Săn Ẩm Thực</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Toriko, Toriko (2011), Toriko (TV), Toriko x One Piece Collabo Special (2011)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-38 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">38</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/chau-trai-cua-nha-thong-thai-r1-a3443/index.html" title="Phim Cháu trai của nhà thông thái - Philosopher&#39s Grandson, Magi&#39s Grandson, Kenja no Mago, Con Đường Trở Thành Pháp Sư Đại Tài" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2019/03/30/animevsub-HUQGQmWSgN.jpg" alt="Phim Cháu trai của nhà thông thái - Philosopher&#39s Grandson, Magi&#39s Grandson, Kenja no Mago, Con Đường Trở Thành Pháp Sư Đại Tài" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2019/03/30/animevsub-HUQGQmWSgN.jpg" alt="Phim Cháu trai của nhà thông thái - Philosopher&#39s Grandson, Magi&#39s Grandson, Kenja no Mago, Con Đường Trở Thành Pháp Sư Đại Tài"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/chau-trai-cua-nha-thong-thai-r1-a3443/index.html" title="Cháu trai của nhà thông thái" class="txt-primary _trackLink">Cháu trai của nhà thông thái</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Philosopher&#39s Grandson, Magi&#39s Grandson, Kenja no Mago, Con Đường Trở Thành Pháp Sư Đại Tài (2019)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-39 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">39</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/boku-no-hero-academia-6th-season-a4656/index.html" title="Phim Học Viện Anh Hùng Mùa 6 - Boku no Hero Academia 6th Season, Boku no Hero Academia SS6, My Hero Academia Season 6, My Hero Academia 6" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2022/10/01/animevsub-O5WXjpbhof.jpg" alt="Phim Học Viện Anh Hùng Mùa 6 - Boku no Hero Academia 6th Season, Boku no Hero Academia SS6, My Hero Academia Season 6, My Hero Academia 6" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2022/10/01/animevsub-O5WXjpbhof.jpg" alt="Phim Học Viện Anh Hùng Mùa 6 - Boku no Hero Academia 6th Season, Boku no Hero Academia SS6, My Hero Academia Season 6, My Hero Academia 6"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/boku-no-hero-academia-6th-season-a4656/index.html" title="Học Viện Anh Hùng Mùa 6" class="txt-primary _trackLink">Học Viện Anh Hùng Mùa 6</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Boku no Hero Academia 6th Season, Boku no Hero Academia SS6, My Hero Academia Season 6, My Hero Academia 6 (2022)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Tập 21 <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+<li class="po-40 group" style="">
+<div class="row-display group po-r"> <span class="txt-rank">40</span> <span class="statistics stand"><i></i></span>
+<div class="e-item">
+<a href="../phim/tsuki-ga-michibiku-isekai-douchuu-a4136/index.html" title="Phim Nguyệt Đạo Dị Giới - Xấu Trai Cũng Là Một Cái Tội, Tsuki ga Michibiku Isekai Douchuu, Tsukimichi -Moonlit Fantasy-, Tsukimichi: Moonlit Fantasy" class="thumb pull-left _trackLink"><img width="45" height="60" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2021/06/05/animevsub-LRHlI8pepD.jpg" alt="Phim Nguyệt Đạo Dị Giới - Xấu Trai Cũng Là Một Cái Tội, Tsuki ga Michibiku Isekai Douchuu, Tsukimichi -Moonlit Fantasy-, Tsukimichi: Moonlit Fantasy" style="display:none;visibility:hidden;"><noscript><img width="45" height="60" src="../../cdn.animevietsub.pro/data/poster/2021/06/05/animevsub-LRHlI8pepD.jpg" alt="Phim Nguyệt Đạo Dị Giới - Xấu Trai Cũng Là Một Cái Tội, Tsuki ga Michibiku Isekai Douchuu, Tsukimichi -Moonlit Fantasy-, Tsukimichi: Moonlit Fantasy"></noscript>
+</a>
+<h3 class="title-item"><a href="../phim/tsuki-ga-michibiku-isekai-douchuu-a4136/index.html" title="Nguyệt Đạo Dị Giới" class="txt-primary _trackLink">Nguyệt Đạo Dị Giới</a></h3>
+<div class="inblock ellipsis">
+<h4 class="title-sd-item txt-info">Xấu Trai Cũng Là Một Cái Tội, Tsuki ga Michibiku Isekai Douchuu, Tsukimichi -Moonlit Fantasy-, Tsukimichi: Moonlit Fantasy (2021)</h4>
+</div>
+</div>
+
+<div class="txt-info rank-score pull-right"> <span class="score fn-number fn-showstats">Full <i class="zicon icon-arrow"></i></span> </div>
+</div>
+<div class="clearfix"></div>
+</li>
+</ul>
+</div>
+<div class="clear"></div>
+</main>
+<aside class="widget-area" role="complementary">
+<section class="Wdgt">
+<div class="Title">Hôm nay xem gì?</div><p>Nếu bạn buồn phiền không biết xem gì hôm nay. Hãy để chúng tôi chọn cho bạn</p><a href="../phim/souten-no-ken-regenesis-a3041/index.html" class="Button TPlay AAIco-play_arrow">Xem Anime <strong>Ngẫu Nhiên</strong></a></section>
+<div class="Dvr-300"><div><center>
+<a href="https://fb.com/233536333844133" target="_blank"><img src="https://ci3.googleusercontent.com/mZI_lfpGW9NbuQ4qnbnfClQu3lVKccG067BGTYb6YVzaddILwDKSZ4Y_NIHXlkusgYOOI7ZicXMxk_XnnJEIxp3ovzOULO4RRywdmUNq7TPXkyB0-ZNY7xOHmjohwg=s0" alt="group" width="300px" height="250px"></a>
+<zone id="kwvigxyu"></zone>
+<script>
+arfAsync.push("kwvigxyu");
+</script>
+</center></div></div>
+
+<section class="Wdgt" id="showChonLoc">
+<div class="Title">ANIME MỚI CẬP NHẬT</div>
+<ul class="MovieList Newepisode">
+<li><a href="../phim/cuu-thien-huyen-de-quyet-a4272/index.html" title="Xem Anime Cửu Thiên Huyền Đế Quyết"><span>Cửu Thiên Huyền Đế Quyết</span><span>Tập 127</span></a></li><li><a href="../phim/ta-nhat-duoc-thuoc-tinh-day-dat-a4881/index.html" title="Xem Anime Ta Nhặt Được Thuộc Tính Đầy Đất"><span>Ta Nhặt Được Thuộc Tính Đầy Đất</span><span>Tập 08</span></a></li><li><a href="../phim/tien-vo-de-ton-a4488/index.html" title="Xem Anime Tiên Võ Đế Tôn"><span>Tiên Võ Đế Tôn</span><span>Tập 198</span></a></li><li><a href="../phim/nghich-thien-chi-ton-a4194/index.html" title="Xem Anime Nghịch Thiên Chí Tôn"><span>Nghịch Thiên Chí Tôn</span><span>Tập 175</span></a></li><li><a href="../phim/van-co-than-thoai-a4691/index.html" title="Xem Anime Vạn Cổ Thần Thoại"><span>Vạn Cổ Thần Thoại</span><span>Tập 60</span></a></li><li><a href="../phim/van-gioi-tien-tung-a3852/index.html" title="Xem Anime Vạn Giới Tiên Tung"><span>Vạn Giới Tiên Tung</span><span>Tập 353</span></a></li><li><a href="../phim/vo-thuong-than-de-a3821/index.html" title="Xem Anime Vô Thượng Thần Đế"><span>Vô Thượng Thần Đế</span><span>Tập 252</span></a></li><li><a href="../phim/mou-ippon-a4856/index.html" title="Xem Anime Mou Ippon!"><span>Mou Ippon!</span><span>Tập 08</span></a></li><li><a href="../phim/kyokou-suiri-2nd-season-a4485/index.html" title="Xem Anime Suy Luận Hư Cấu Mùa 2"><span>Suy Luận Hư Cấu Mùa 2</span><span>Tập 08</span></a></li><li><a href="../phim/fumetsu-no-anata-e-2nd-season-a4701/index.html" title="Xem Anime Fumetsu no Anata e 2nd Season"><span>Fumetsu no Anata e 2nd Season</span><span>Tập 18</span></a></li>
+<li><a href="../anime-moi/index.html">Xem thêm..</a></li>
+</ul>
+</section>
+ <section class="Wdgt">
+<div class="Title">Hỏi/đáp anime</div>
+<div class="fbcmt" id="comments">
+<div class="fbcmt title">Đừng quên để like page của AnimeVsub <div class="fb-like" data-href="https://www.facebook.com/animevsub/" data-layout="button_count" data-action="like" data-size="large" data-lazy="true" data-show-faces="true"></div> để cập nhật anime mỗi ngày</div>
+<span style="color:#000000">Mời bạn cài tiện ích hỗ trợ xem khi nhà mạng khi bị chặn <a href="https://bit.ly/pluginavs" target="_blank"><span style="color:#ff5722"><strong>tại đ&acirc;y!!</strong></span></a></strong></span></a></span>
+<div class="Comment Wrt" id="respond">
+<div class="fb-comments fb_iframe_widget" data-href="http://animevietsub.tv" data-numposts="3" data-width="100%" data-colorscheme="light" data-order-by="reverse_time"></div>
+</div>
+</div> </section>
+
+<section class="Wdgt" id="showTopPhim">
+<div class="Title">HOT TUẦN<div class="Top">
+<a href="../anime-bo/index.html" class="STPb Current" title="Anime TV/Series xem nhiều nhất tuần" data-tag="top-bo-week">TV/Series</a>
+<a href="../anime-le/index.html" class="STPb" title="Movie/OVA xem nhiều nhất tuần" data-tag="top-le-week">Movie/OVA</a>
+</div></div>
+<ul class="MovieList">
+<li><div class="TPost A"> <a rel="bookmark" href="../phim/one-piece-dao-hai-tac-a1/index.html"> <span class="Top">#1<i></i></span><div class="Image"><figure class="Objf TpMvPlay AAIco-play_arrow"><img width="55" height="85" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2019/09/27/animevsub-sQCBqYz9ve.jpg" class="attachment-img-mov-sm size-img-mov-sm wp-post-image" alt="One Piece - Đảo Hải Tặc - Vua Hải Tặc" style="display:none;visibility:hidden;"><noscript><img width="55" height="85" src="../../cdn.animevietsub.pro/data/poster/2019/09/27/animevsub-sQCBqYz9ve.jpg" class="attachment-img-mov-sm size-img-mov-sm wp-post-image" alt="One Piece - Đảo Hải Tặc - Vua Hải Tặc"></noscript></figure></div><div class="Title">One Piece - Đảo Hải Tặc</div> </a><p class="Info"> <span class="Vote AAIco-star">9.1</span><span class="Time AAIco-access_time">1053/????</span> <span class="Date AAIco-date_range">1999</span> <span class="Qlty">FHD</span></p></div></li><li><div class="TPost A"> <a rel="bookmark" href="../phim/saikyou-onmyouji-no-isekai-tenseiki-a4837/index.html"> <span class="Top">#2<i></i></span><div class="Image"><figure class="Objf TpMvPlay AAIco-play_arrow"><img width="55" height="85" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2022/12/11/animevsub-w7DFa3WhAo.jpg" class="attachment-img-mov-sm size-img-mov-sm wp-post-image" alt="Âm Dương Sư Mạnh Nhất Chuyển Sinh - Saikyou Onmyouji no Isekai Tenseiki, The Reincarnation of the Strongest Exorcist in Another World, The Reincarnation of the Strongest Onmyouji in Another World" style="display:none;visibility:hidden;"><noscript><img width="55" height="85" src="../../cdn.animevietsub.pro/data/poster/2022/12/11/animevsub-w7DFa3WhAo.jpg" class="attachment-img-mov-sm size-img-mov-sm wp-post-image" alt="Âm Dương Sư Mạnh Nhất Chuyển Sinh - Saikyou Onmyouji no Isekai Tenseiki, The Reincarnation of the Strongest Exorcist in Another World, The Reincarnation of the Strongest Onmyouji in Another World"></noscript></figure></div><div class="Title">Âm Dương Sư Mạnh Nhất Chuyển Sinh</div> </a><p class="Info"> <span class="Vote AAIco-star">9.6</span><span class="Time AAIco-access_time">08/13</span> <span class="Date AAIco-date_range">2023</span> <span class="Qlty">HD</span></p></div></li><li><div class="TPost A"> <a rel="bookmark" href="../phim/kage-no-jitsuryokusha-ni-naritakute-a4699/index.html"> <span class="Top">#3<i></i></span><div class="Image"><figure class="Objf TpMvPlay AAIco-play_arrow"><img width="55" height="85" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2022/10/05/animevsub-PeZHKapawP.jpg" class="attachment-img-mov-sm size-img-mov-sm wp-post-image" alt="Ta Muốn Trở Thành Chúa Tể Bóng Tối! - Kage no Jitsuryokusha ni Naritakute!, The Eminence in Shadow, Shadow Garden, Tao Muốn Làm Chúa Hề Bóng Tối" style="display:none;visibility:hidden;"><noscript><img width="55" height="85" src="../../cdn.animevietsub.pro/data/poster/2022/10/05/animevsub-PeZHKapawP.jpg" class="attachment-img-mov-sm size-img-mov-sm wp-post-image" alt="Ta Muốn Trở Thành Chúa Tể Bóng Tối! - Kage no Jitsuryokusha ni Naritakute!, The Eminence in Shadow, Shadow Garden, Tao Muốn Làm Chúa Hề Bóng Tối"></noscript></figure></div><div class="Title">Ta Muốn Trở Thành Chúa Tể Bóng Tối!</div> </a><p class="Info"> <span class="Vote AAIco-star">9.7</span><span class="Time AAIco-access_time">20/20</span> <span class="Date AAIco-date_range">2022</span> <span class="Qlty">HD</span></p></div></li><li><div class="TPost A"> <a rel="bookmark" href="../phim/otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-a4662/index.html"> <span class="Top">#4<i></i></span><div class="Image"><figure class="Objf TpMvPlay AAIco-play_arrow"><img width="55" height="85" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2023/02/25/animevsub-UN1VhCTcIz.jpg" class="attachment-img-mov-sm size-img-mov-sm wp-post-image" alt="Thiên Sứ Nhà Bên - Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken, The Angel Next Door Spoils Me Rotten" style="display:none;visibility:hidden;"><noscript><img width="55" height="85" src="../../cdn.animevietsub.pro/data/poster/2023/02/25/animevsub-UN1VhCTcIz.jpg" class="attachment-img-mov-sm size-img-mov-sm wp-post-image" alt="Thiên Sứ Nhà Bên - Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken, The Angel Next Door Spoils Me Rotten"></noscript></figure></div><div class="Title">Thiên Sứ Nhà Bên</div> </a><p class="Info"> <span class="Vote AAIco-star">9.6</span><span class="Time AAIco-access_time">08/12</span> <span class="Date AAIco-date_range">2023</span> <span class="Qlty">HD</span></p></div></li><li><div class="TPost A"> <a rel="bookmark" href="../phim/boku-no-hero-academia-6th-season-a4656/index.html"> <span class="Top">#5<i></i></span><div class="Image"><figure class="Objf TpMvPlay AAIco-play_arrow"><img width="55" height="85" data-cfsrc="http://cdn.animevietsub.pro/data/poster/2022/10/01/animevsub-O5WXjpbhof.jpg" class="attachment-img-mov-sm size-img-mov-sm wp-post-image" alt="Học Viện Anh Hùng Mùa 6 - Boku no Hero Academia 6th Season, Boku no Hero Academia SS6, My Hero Academia Season 6, My Hero Academia 6" style="display:none;visibility:hidden;"><noscript><img width="55" height="85" src="../../cdn.animevietsub.pro/data/poster/2022/10/01/animevsub-O5WXjpbhof.jpg" class="attachment-img-mov-sm size-img-mov-sm wp-post-image" alt="Học Viện Anh Hùng Mùa 6 - Boku no Hero Academia 6th Season, Boku no Hero Academia SS6, My Hero Academia Season 6, My Hero Academia 6"></noscript></figure></div><div class="Title">Học Viện Anh Hùng Mùa 6</div> </a><p class="Info"> <span class="Vote AAIco-star">9.6</span><span class="Time AAIco-access_time">21/25</span> <span class="Date AAIco-date_range">2022</span> <span class="Qlty">HD</span></p></div></li>
+</ul>
+</section>
+ <div class="Dvr-300"> </div>
+<div class="tag-list-main"><ul><li class="tag-item"><a class="tag-link" title="List anime thể loại Action - Comedy" href="../danh-sach/all/1-3/all/all/index.html">List anime thể loại Action - Comedy</a><span class="tag-end">&nbsp;</span></li>
+<li class="tag-item"><a class="tag-link" title="List anime thể loại Action  -Romance" href="../danh-sach/all/1-24/all/all/index.html">List anime thể loại Action -Romance</a><span class="tag-end">&nbsp;</span></li>
+<li class="tag-item"><a class="tag-link" title=" List anime thể loại Harem - Comedy" href="../danh-sach/all/3-10/all/all/index.html"> List anime thể loại Harem - Comedy</a><span class="tag-end">&nbsp;</span></li>
+<li class="tag-item"><a class="tag-link" title=" List Phim Hoạt Hình Trung Quốc" href="../hoat-hinh-trung-quoc/index.html"> List Phim Hoạt Hình Trung Quốc</a><span class="tag-end">&nbsp;</span></li>
+<li class="tag-item"><a class="tag-link" title="List anime Ghibli " href="../tag/ghibli/index.html">List anime Ghibli </a><span class="tag-end">&nbsp;</span></li>
+</ul></div> </aside> </div>
+</div>
+</div>
+<footer class="Footer">
+<div class="Container">
+<div class="MnBrCn BgA">
+<div class="MnBr EcBgA">
+ <div class="Container">
+<figure class="Logo">
+<a href="../index.html" title="Xem anime online" rel="home"><img data-cfsrc="http://cdn.animevietsub.pro/data/logo/logoz.png" alt="logo" style="display:none;visibility:hidden;"><noscript><img src="../../cdn.animevietsub.pro/data/logo/logoz.png" alt="logo"></noscript></a>
+</figure>
+<div class="Rght">
+<nav class="Menu">
+<ul>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-490"><a href="../_b5e4.html?=$web_link;?>">XEM PHIM</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-493"><a href="../yeu-cau-phim.html">YÊU CẦU ANIME</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-493"><a href="../pages/discord.html">Chat Anime/Discord</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-493"><a href="../pages/thuat-ngu.html">THUẬT NGỮ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-493"><a href="https://fb.com/233536333844133">GROUP THẢO LUẬN</a></li>
+</ul>
+</nav>
+<ul class="ListSocial">
+<li>
+<a target="_blank" href="https://www.facebook.com/animevsub/" class="fa fa-facebook"></a>
+</li>
+<li>
+<a target="_blank" href="https://www.instagram.com/animevsub/" class="fa fa-instagram"></a>
+</li>
+<li>
+<a target="_blank" href="https://twitter.com/AnimeVsub" class="fa-twitter"></a>
+</li>
+<li>
+<a target="_blank" href="https://www.youtube.com/channel/UCtpcar8l0Tv51xlpwwGVpvA" class="fa-youtube-play"></a>
+</li>
+<li>
+<a href="#Tp-Wp" class="Up AAIco-arrow_upward"></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="WebDescription">
+<p><a href="http://www.kanefusafs.net/" rel="dofollow" target="_blank" title="Kanefusa Fansub">Kanefusa Fansub </a>&nbsp;<a href="../phim/dao-hai-tac-a1/index.html" target="_blank" title="One Piece - Đảo Hải Tặc">One Piece, Vua Hải Tặc&nbsp;Đảo Hải Tặc</a>&nbsp;<a href="../phim/tham-tu-lung-danh-conan-a3/index.html" target="_blank" title="Thám Tử Lừng Danh Conan">Th&aacute;m Tử Lừng Danh Conan</a>&nbsp;<a href="../hoat-hinh-trung-quoc/index.html" target="_blank" title="Hoạt Hình Trung Quốc">Hoạt H&igrave;nh Trung Quốc</a></p>
+</div>
+<div class="WebDescription">
+Liên Hệ Quảng Cáo: <b><a href="../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="0d6c697e4d6c636460687b6468797e786f23797b">[email&#160;protected]</a></b>
+</div>
+<p class="Copy"><a target="_blank" href="../_b5e4.html?=$web_link;?>">© Copyright 2023 AnimeVietSub.TV. All rights reserved.</a></p>
+</div></footer>
+<div id="loading">
+<div id="loading-center">
+<div id="loading-center-absolute">
+<div class="object" id="object_one"></div>
+<div class="object" id="object_two"></div>
+<div class="object" id="object_three"></div>
+<div class="object" id="object_four"></div>
+</div>
+</div>
+</div>
+<div class="top-message"></div>
+
+<script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-68882454-10"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-68882454-10');
+</script>
+<div style="position: fixed; top: 60px; right: 40px; width: 100%; height: 100%; overflow: hidden; visibility: hidden;"><div style="position: absolute; left: 50%; margin-left: -700px; margin-right: 0px; visibility: visible;"><zone id="kwybox12"></zone>
+<script>
+arfAsync.push("kwybox12");
+</script></div></div>
+<div style="position: fixed; top: 60px; left: 70px; width: 100%; height: 100%; overflow: hidden; visibility: hidden;"><div style="position: absolute; left: 50%; margin-left: 500px; margin-right: 0px; visibility: visible;"><zone id="kwybpkrw"></zone>
+<script>
+arfAsync.push("kwybpkrw");
+</script></div></div> <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="../../connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v12.0&appId=1214104412028762&autoLogAppEvents=1" nonce="zNEV1awW"></script>
+<script type="text/javascript" src="../statics/default/js/film.notinyc619.js?v=1.0"></script>
+<!--[if lt IE 9]><script type="text/javascript" src="https://animevietsub.pro/statics/default/js/ie/css3mq.js"></script><![endif]-->
+<!--[if lte IE 9]><script type="text/javascript" src="https://animevietsub.pro/statics/default/js/ie/ie.js"></script><![endif]-->
+<script async src="../../pagead2.googlesyndication.com/pagead/js/f540d.txt?client=ca-pub-6186261113573228" crossorigin="anonymous"></script> </div>
+</body>
+
+<!-- Mirrored from animevietsub.pro/bang-xep-hang/year.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Feb 2023 04:19:46 GMT -->
+</html>
