@@ -317,7 +317,65 @@
                     <main>
                         <section>
                             <ul id="list_Latest_Update" class="MovieList Rows AX A06 B04 C03 E20">
-                                
+                                <li class="TPostMv">
+                                    <article id="post-1"
+                                        class="TPost C post-1 post type-post status-publish format-standard has-post-thumbnail hentry">
+                                        <a href="#">
+                                            <div class="Image">
+                                                <figure class="Objf TpMvPlay AAIco-play_arrow"><img width="215"
+                                                        height="320"
+                                                        data-cfsrc="${item.Thumb}"
+                                                        class="attachment-thumbnail size-thumbnail wp-post-image"
+                                                        alt="${item.Name_Manga_New}"
+                                                        title="${item.Name_Manga_New}"
+                                                        style="display:none;visibility:hidden;" />
+                                                        <img
+                                                            width="215" height="320"
+                                                            src="${item.Thumb}"
+                                                            class="attachment-thumbnail size-thumbnail wp-post-image"
+                                                            alt="${item.Name_Manga_New}"
+                                                            title="${item.Name_Manga_New}" />
+                                                            
+                                                </figure>
+                                                <span class="mli-eps"><i></i></span>
+                                                <div class="anime-extras">
+                                                    <div class="anime-avg-user-rating"
+                                                        title="9.1 trong số 10 dựa trên 1936 thành viên đánh giá"
+                                                        data-action="click->anime-card#showLibraryEditor"><i
+                                                            class="fa fa-star"></i>9.1</div>
+                                                </div>
+                                            </div>
+                                            <h2 class="Title">${item.Name_Manga_New}</h2> <span class="Year">Chapter:
+                                                ${item.Chapter_New}</span>
+                                        </a>
+                                        <div class="TPMvCn anmt">
+                                            <div class="Title">${item.Name_Manga_New}</div>
+                                            <p class="Info"><span class="Qlty">FHD</span> <span
+                                                    class="Vote AAIco-star">9.1</span> <span
+                                                    class="Time AAIco-access_time">1053/????</span> <span
+                                                    class="Date AAIco-date_range">1999</span></p>
+                                            <div class="Description">
+                                                <p>Đảo Hải Tặc - One Piece&nbsp;là chuyện về cậu bé Monkey D. Luffy do
+                                                    ăn nhầm Trái Ác Quỷ, bị biến thành người cao...</p>
+                                                <p class="Studio AAIco-videocam"><span>Studio:</span> Toei Animation <i
+                                                        class="Button STPa AAIco-more_horiz"></i></p>
+                                                <p class="Genre AAIco-movie_creation"><span>Thể loại:</span> <a
+                                                        href="the-loai/shounen/index.html" title="Shounen">Shounen</a>,
+                                                    <a href="the-loai/super-power/index.html" title="Super Power">Super
+                                                        Power</a>, <a href="the-loai/phep-thuat/index.html"
+                                                        title="Fantasy">Fantasy</a>, <a href="the-loai/drama/index.html"
+                                                        title="Drama">Drama</a>, <a href="the-loai/hai-huoc/index.html"
+                                                        title="Comedy">Comedy</a>, <a
+                                                        href="the-loai/phieu-luu/index.html"
+                                                        title="Adventure">Adventure</a>, <a
+                                                        href="the-loai/hanh-dong/index.html" title="Action">Action</a>,
+                                                    <i class="Button STPa AAIco-more_horiz"></i></p>
+                                                <p class="Actors AAIco-person"><span>Diễn viên:</span> Monkey D. Luffy,
+                                                    <i class="Button STPa AAIco-more_horiz"></i></p>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </li>
                             </ul>
                         </section>
                         
@@ -467,6 +525,7 @@
         .then((respone) => respone.json())
         .then((data) => {
             console.log(data) 
+            document.querySelector('#list_Latest_Update');
             var html = "";
 
             data.map((item, index) => {
@@ -486,52 +545,39 @@
                                                             src="${item.Image}"
                                                             class="attachment-thumbnail size-thumbnail wp-post-image"
                                                             alt="" /></figure>
-                                                <span class="mli-eps">TẬP<i>353</i></span>
-                                                <div class="anime-extras">
-                                                    <div class="anime-avg-user-rating"
-                                                        title="7.3 trong số 10 dựa trên 98 thành viên đánh giá"
-                                                        data-action="click->anime-card#showLibraryEditor"><i
-                                                            class="fa fa-star"></i>7.3</div>
-                                                </div>
                                             </div>
-                                            <h2 class="Title">${item.Name_Manga_Update}</h2> <span class="Year">Lượt xem:
-                                                4,086,118</span>
+                                            <h2 class="Title">${item.Name_Manga_Update}</h2> <span class="Year">
+                                                ${item.Views}</span>
                                         </a>
                                         <div class="TPMvCn anmt">
                                             <div class="Title">${item.Name_Manga_Update}</div>
-                                            <p class="Info"><span class="Qlty">HD</span><span
-                                                    class="Vote AAIco-star">7.3</span> <span
-                                                    class="Time AAIco-access_time">353/???</span> <span
-                                                    class="Date AAIco-date_range">2018</span></p>
+                                            
                                             <div class="Description">
-                                                <p>Mỗi bông hoa là 1 thế giới, Phàm thế chỉ là một hạt cát bé nhỏ trong
-                                                    tay tiên ma Tiên ma nhất niệm, nhân thế vạn năm...</p>
-                                                <p class="Director AAIco-videocam"><span>Studio:<span> Ruo Hong Culture
+                                                <p>${item.Descript}</p>
+                                                <p><span>Chapter: <span>${item.Chapter_name}
                                                             <i class="Button STPa AAIco-more_horiz"></i></p>
                                                 <p class="Genre AAIco-movie_creation"><span>Thể loại:</span> <a
-                                                        href="../the-loai/tinh-cam/index.html"
-                                                        title="Romance">Romance</a>, <a
-                                                        href="../the-loai/phep-thuat/index.html"
-                                                        title="Fantasy">Fantasy</a>, <a
-                                                        href="../the-loai/demons/index.html" title="Demons">Demons</a>,
-                                                    <a href="../the-loai/phieu-luu/index.html"
-                                                        title="Adventure">Adventure</a>, <a
-                                                        href="../the-loai/lich-su/index.html"
-                                                        title="Historical">Historical</a>, <a
-                                                        href="../the-loai/martial-arts/index.html"
-                                                        title="Martial Arts">Martial Arts</a>, <a
-                                                        href="../the-loai/hanh-dong/index.html"
-                                                        title="Action">Action</a>, </p>
-                                                <p class="Actors AAIco-person"><span>Diễn viên:</span>
-                                                <div class="alert alert-warning">Nhân vật đang được cập nhật</div> <i
-                                                    class="Button STPa AAIco-more_horiz"></i></p>
+                                                        href="#"
+                                                        title=""></a>, <a
+                                                        href="#"
+                                                        title=""></a>, <a
+                                                        href="#" title=""></a>,
+                                                    <a href=""
+                                                        title=""></a>, <a
+                                                        href=""
+                                                        title=""></a>, <a
+                                                        href=""
+                                                        title=""></a>, <a
+                                                        href=""
+                                                        title=""></a>, </p>
+
                                             </div>
                                         </div>
                                     </article>
                                 </li>`;
-                                document.querySelector('#list_Latest_Update');
+                                
             })
-            data.innerHTML = html
+            list_Latest_Update.innerHTML = html
         })
     </script>
     <script>
@@ -603,7 +649,6 @@
                 latest_update.innerHTML = html
             })
     </script>
-
         
 </body>
 
