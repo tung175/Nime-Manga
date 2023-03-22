@@ -8274,14 +8274,14 @@ ul.MovieList.Newepisode li a span:first-child {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-    width: 70%;
+    width: 100%;
     vertical-align: middle;
     color: #ce9090
 }
 
 ul.MovieList.Newepisode li a span:last-child {
     display: inline-block;
-    width: 30%;
+    /* width: 30%; */
     text-align: right;
     color: #5f5f5f;
     font-style: italic
